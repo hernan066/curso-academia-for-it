@@ -34,21 +34,22 @@ Cada carpeta o archivo dentro del repositorio está orientado a uno de los módu
 ## 📝 Estructura del Repositorio
 
 ```
-├── git-avanzado/
-├── typescript/
-├── tdd/
-├── codigo-limpio/
-├── arquitectura-limpia/
-├── visual-tdd/
-├── docker/
+├── 01-git-avanzado/
+├── 02-typescript/
+├── 03-tdd/
+├── 04-codigo-limpio/
+├── 05-arquitectura-limpia/
+├── 06-visual-tdd/
+├── 07-docker/
+├── libros/
 └── README.md
 ```
 
 Cada carpeta incluye:
 
-- Resúmenes teóricos 📚  
-- Actividades prácticas 🛠️  
-- Ejemplos de código 💻  
+- Resúmenes teóricos 📚
+- Actividades prácticas 🛠️
+- Ejemplos de código 💻
 - Anotaciones personales 🗒️
 
 ---
